@@ -1,7 +1,7 @@
 
 import random
 GROUP_SIZE=5
-students_num_list = list(range(1,51))
+students_num_list = list(range(0,51))
 random.shuffle(students_num_list)
 
 group_nums=len(students_num_list)//GROUP_SIZE + 1
