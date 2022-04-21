@@ -1,0 +1,1 @@
+该程序是在python=3.6以及opencv-python相应版本下运行得到的
